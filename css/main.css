@@ -44,8 +44,14 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    line-height: 150%;
+    color: #333;
+    font-family:'Candara';
+    line-height: 150%;
 }
 
 ul.posts li {
     list-style: none;
+     line-height: 150%;
+
 }
