@@ -52,6 +52,9 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-     line-height: 150%;
+    font-size: 1.5em;
+    line-height: 150%;
+    color: #333;
+    font-family:'Candara';
 
 }
