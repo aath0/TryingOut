@@ -1,1 +1,1 @@
-'DopeTrope'
+gem 'DopeTrope'
