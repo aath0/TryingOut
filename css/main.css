@@ -31,11 +31,13 @@ h2 {
 
 p {
     font-size: 1.5em;
+    font-family:'Candara', 'Ubuntu', 'Sans-Serif';
     line-height: 1.4em;
     color: #333;
 }
 
 plist {
+     font-family:'Candara', 'Ubuntu', 'Sans-Serif';
     font-size: 1.5em;
     color: #333;
     font-family:'Candara';
@@ -43,11 +45,13 @@ plist {
 }
 
 footer {
+     font-family:'Candara', 'Ubuntu', 'Sans-Serif';
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
 ul.posts { 
+     font-family:'Candara', 'Ubuntu', 'Sans-Serif';
     margin: 20px auto 40px; 
     font-size: 1.5em;
     color: #333;
@@ -56,6 +60,7 @@ ul.posts {
 }
 
 ul.posts li {
+    font-family:'Candara', 'Ubuntu', 'Sans-Serif';
     list-style: none;
     font-size: 1.5em;
     line-height: 200%;
