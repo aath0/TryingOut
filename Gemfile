@@ -1,1 +1,1 @@
-gem 'DopeTrope'
+gem 'Slate'
