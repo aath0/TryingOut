@@ -1,4 +1,9 @@
+  <head>
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu">
+  </head>
+
 body {
+    font-family:'Ubuntu', 'Sans-Serif';
     margin: 60px auto;
     width: 70%;
 }
